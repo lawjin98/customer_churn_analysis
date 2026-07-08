@@ -2,6 +2,8 @@
 
 이 프로젝트는 고객 이탈을 분석합니다.
 Customer churn analysis — exploration.
-데이터 출처: Telco Customer Churn (Kaggle)
+
+데이터 출처: Codeit Customer Churn (DA14)
 분석 기간: 2025 - 2026
 사용 기술: Python, SQL
+분석 목표: 이탈 고객의 특성과 이탈 요인 파악
